@@ -1,0 +1,184 @@
+html
+{
+    background-color: #333333;
+    font-family: Verdana,Georgia;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+hr
+{
+    width: 700px;
+    border-color: gray;
+}
+
+#kontejner
+{
+    width: 978px;
+    margin: auto;
+    height: 1530px;
+    background-color: #394251;
+}
+#meni
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    margin-left: 185px;
+}
+
+#meni li
+{
+    float: left;
+}
+#meni li a
+{
+    display: block;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+}
+#meni li a:hover
+{
+    color: #db1d31;
+}
+#tekstnaslici
+{
+    position: relative;
+    background-image: url('images/05.jpg') ;
+    height:280px;
+    background-size: 978px 400px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 180px;
+}
+
+.dvadug
+{
+    border: none;
+    padding: 15px;
+    margin: 10px;
+    color: #db1d31;
+    background-color: white;
+}
+
+.dvadug:hover
+{
+    color: white;
+    background-color: #db1d31;
+}
+#text
+{
+    width: 400px;
+}
+
+#inova
+{
+    position: absolute;
+    width: 70px;
+    bottom: -30px;
+    left: 120px
+}
+
+.ocisti
+{
+    clear: both;
+}
+
+#kolone
+{
+    margin: auto;
+    width: 600px;
+    margin-top: 50px;
+    color:  #888888;
+    height: 320px;
+}
+
+.element
+{
+    float:left;
+    width: 190px;
+    background-color: white;
+    line-height: 1;
+    margin-right: 15px;
+}
+.element img
+{
+    width: 190px;
+}
+
+.element_tekst
+{
+    margin-top: -10px;
+    padding:  0px 6px;
+    text-align: left;
+  
+}
+#tekst1
+{
+    width: 978px;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+#tekstt
+{
+    width: 600px;
+    margin: auto;
+}
+
+#tekstt p
+{
+    text-align: justify;
+}
+
+#submit
+{
+    width: 600px;
+    margin: auto;
+    padding-top: 50px;
+    color: white;
+}
+
+#submit .polje
+{
+    border: none;
+    margin-top: 10px;
+    padding: 8px;
+    width: 300px;
+    background-color: #868ba6;
+    color: white;
+}
+
+#subdugme
+{
+    border: none;
+    padding: 8px;
+    margin-top: 10px;
+    width: 150px;
+    background-color: #db1d31;
+    color: white;
+}
+
+#copyright
+{
+    width: 700px;
+    margin: auto;
+}
+#ab
+{
+    float: left;
+    width: 350px;
+    font-size: 12px;
+    color: white;
+}
+#bb
+{
+    width: 150px;
+    float: right;
+    font-size: 12px;
+    color: white;
+}
